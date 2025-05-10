@@ -1,6 +1,6 @@
 # redbirD.Me 🐦💬
 
-`redbirD.Me` is a Python-based chatting application developed using **PyQt5** that allows users to connect with friends through a simple, intuitive GUI. This school project, built by students of Chennai Public School, showcases secure registration and login, friend requests, and real-time chat capabilities via socket programming.
+`redbirD.Me` is a Python-based chatting application developed using **PyQt5** that allows users to connect with friends through a simple, intuitive GUI. This school project, built by me and my team showcases secure registration and login, friend requests, and real-time chat capabilities via socket programming.
 
 ## 🚀 Features
 
