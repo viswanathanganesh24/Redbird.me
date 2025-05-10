@@ -22,19 +22,6 @@
   - `friendslist.dat`: Binary file storing friend lists and requests
   - `chatdata/`: Contains text files for individual chat histories
 
-## 📁 Folder Structure
-📦 redbirD.Me
-├── chatdata/
-│ └── [username1_username2].txt
-├── userdata.csv
-├── friendslist.dat
-├── register.ui
-├── login.ui
-├── friends.ui
-├── requests.ui
-├── page1.ui
-├── Page1.py
-└── main.py
 
 ## ✅ Requirements
 
